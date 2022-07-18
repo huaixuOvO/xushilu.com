@@ -1,0 +1,4 @@
+/.eslintignore
+/.eslintrc.js
+/.next
+/node_modules

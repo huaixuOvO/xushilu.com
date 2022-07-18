@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>序时录</title>
+      <link>https://www.xushilu.com/posts</link>
+      <description>宁鸣而死 不默而生</description>
+      <language>zh-cn</language>
+      <managingEditor>xushilu@protonmail.com (槐序)</managingEditor>
+      <webMaster>xushilu@protonmail.com (槐序)</webMaster>
+      <lastBuildDate>Thu, 07 Jul 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.xushilu.com/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.xushilu.com/posts/1</guid>
+    <title>大萧条</title>
+    <link>https://www.xushilu.com/posts/1</link>
+    
+    <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
+    <author>xushilu@protonmail.com (槐序)</author>
+    
+  </item>
+
+  <item>
+    <guid>https://www.xushilu.com/posts/Ontology-of-Media-and-Reflexive-Modernization</guid>
+    <title>媒介本体论和现代化自反性</title>
+    <link>https://www.xushilu.com/posts/Ontology-of-Media-and-Reflexive-Modernization</link>
+    <description>影像本体论描述精神层面上对媒介的相互反应，一些作品例如悬疑存在自反性，媒介的自反性通过通过认识论、符号文化等揭示，背后的是现代化自反性的背景。</description>
+    <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
+    <author>xushilu@protonmail.com (槐序)</author>
+    <category>社会学</category>
+  </item>
+
+  <item>
+    <guid>https://www.xushilu.com/posts/Blog-Styles</guid>
+    <title>博客：样式</title>
+    <link>https://www.xushilu.com/posts/Blog-Styles</link>
+    
+    <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
+    <author>xushilu@protonmail.com (槐序)</author>
+    
+  </item>
+
+    </channel>
+  </rss>

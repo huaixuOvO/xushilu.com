@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.prose blockquote {
+  font-style: normal;
+}
+
+code::before, code::after {
+  content: '\`';
+}
+
+code {
+  box-sizing: inherit;
+  white-space: pre-wrap;
+}
+
+span.katex{
+  font:normal 1rem KaTeX_Main,  sans;
+  line-height: 1rem;
+}
