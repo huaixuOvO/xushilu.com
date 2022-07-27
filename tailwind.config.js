@@ -47,7 +47,7 @@ module.exports = {
               backgroundColor: theme('colors.gray.50'),
             },
             code: {
-              color: "#d400ff",
+              color: "#e83e8c",
               backgroundColor: theme('colors.white'),
               paddingLeft: '4px',
               paddingRight: '4px',
@@ -125,7 +125,7 @@ module.exports = {
               backgroundColor: theme('colors.gray.800'),
             },
             code: {
-              color: "#d400ff",
+              color: "#e83e8c",
               backgroundColor: theme('colors.gray.800'),
               paddingLeft: '4px',
               paddingRight: '4px',
